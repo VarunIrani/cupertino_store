@@ -16,7 +16,7 @@ class ProductListTab extends StatelessWidget {
             semanticChildCount: products.length,
             slivers: <Widget>[
               CupertinoSliverNavigationBar(
-                largeTitle: const Text('Cupertino Store'),
+                largeTitle: const Text('Shrine'),
               ),
               SliverSafeArea(
                 top: false,
